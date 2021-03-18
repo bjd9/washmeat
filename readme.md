@@ -28,9 +28,9 @@ Findings from exploration were organized into 3 categories:
   - Washing practices (or not) depending on type of meat
 
 *Safety Practices*
-  -
-  
+  - Responses in rating home kitchen safety and commercial kitchen safety.
+
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+Presentation will focus on kitchen practices and safety practices analysis outlined in the exploratory analysis. 
