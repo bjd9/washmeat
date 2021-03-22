@@ -33,4 +33,8 @@ Findings from exploration were organized into 3 categories:
 
 ## Key Insights for Presentation
 
-Presentation will focus on kitchen practices and safety practices analysis outlined in the exploratory analysis. 
+Presentation will focus on kitchen practices and safety practices analysis outlined in the exploratory analysis for the slide deck.
+
+In order to run the slide deck the following should be executed in the terminal:
+
+ jupyter nbconvert --to slides --TemplateExporter.exclude_input=True washmeatexplanatoryslidedeck.ipynb
